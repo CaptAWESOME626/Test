@@ -1,11 +1,3 @@
-- name: send message
-  uses: appleboy/discord-action@master
-  with:
-    webhook_id: ${{ 761441058311110657 }}
-    webhook_token: ${{ vHHfNwS1v0QCktutmnqiACBCxgrKjpFiqFrC5QQD5aKqHRBEnFw7Zck_J6MYocRVxpnl }}
-    content: "Im Dumb."
-    username: "Understand Code"
-   
 {
   "username": "Webhook",
   "avatar_url": "https://i.imgur.com/4M34hi2.png",
