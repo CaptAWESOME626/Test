@@ -3,6 +3,6 @@
   with:
     webhook_id: ${{ 761441058311110657 }}
     webhook_token: ${{ vHHfNwS1v0QCktutmnqiACBCxgrKjpFiqFrC5QQD5aKqHRBEnFw7Zck_J6MYocRVxpnl }}
-    message: "Im Dumb"
+    message: "Im Dumb."
     username: "Understand Code"
    
